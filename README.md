@@ -8,4 +8,6 @@ Project 2 - *Dog Project* - Use a convolutional neural network (CNN) to build a 
 
 Project 3 - *TV Script Generation* - Use a recurrent neural network (RNN) to create a simple script for *The Simpsons* TV show.
 
+Project 4 - *Face Generation* - Use a generative adversial network (GAN) to generate new face images.
+
 **Still in progress!**
