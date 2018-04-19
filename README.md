@@ -10,4 +10,4 @@ Project 3 - *TV Script Generation* - Use a recurrent neural network (RNN) to cre
 
 Project 4 - *Face Generation* - Use a generative adversial network (GAN) to generate new face images.
 
-**Still in progress!**
+Project 5 - *Teach a Quadcopter How to Fly!* - Use deep reinforcement learning with the actor-critic method to teach a quadcopter to perform a task (not included in this repository).
